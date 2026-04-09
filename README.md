@@ -81,14 +81,6 @@
 
 ---
 
-## 🏆 GitHub Trophies (Extra Mile)
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Sahampath&theme=darkhub&no-frame=true&row=2&column=4" alt="GitHub Trophies" />
-</p>
-
----
-
 ## 🔥 Fun extras
 
 - 🎮 **Unity DOTS** experiments | 🧪 **Unreal Engine 5** procedural worlds | 🤖 **Discord bot builder**  
@@ -108,10 +100,10 @@
   <a href="https://github.com/Sahampath">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="https://twitter.com/YOUR_TWITTER">
+  <a href="https://twitter.com/">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
   </a>
-  <a href="mailto:your.email@example.com">
+  <a href="https://gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
