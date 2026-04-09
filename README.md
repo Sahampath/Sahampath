@@ -1,10 +1,3 @@
-<!-- 
-  🎮 Sahampath's GitHub Profile README
-  ✅ Fully working – no broken badges or services
-  ✅ Uses reliable fallbacks for typing effect, counters, and stats
--->
-
-<!-- BANNER TYPING EFFECT (herokuapp version – more stable) -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&duration=3000&pause=500&color=2E9AFE&center=true&vCenter=true&width=600&lines=Hello+World!+👋;I'm+Sahampath;Game+Developer;Unity+%2F+Unreal+Expert;AI+%2F+Bot+Creator" alt="Typing SVG" />
 </p>
@@ -16,23 +9,9 @@
 
 <!-- LIVE COUNTERS (all working) -->
 <p align="center">
-  <!-- Visitor count – reliable service -->
-  <img src="https://visitcount.itsvg.in/api?id=Sahampath&label=👁️%20PROFILE%20VIEWS&color=12&icon=5&pretty=true" />
-  
-  <!-- GitHub followers -->
-  <a href="https://github.com/Sahampath?tab=followers">
-    <img src="https://img.shields.io/github/followers/Sahampath?label=👥%20FOLLOWERS&style=flat-square&logo=github&color=2c8cbb" alt="GitHub Followers" />
-  </a>
-  
-  <!-- Forks of your profile repo (requires public repo Sahampath/Sahampath) -->
-  <a href="https://github.com/Sahampath/Sahampath">
-    <img src="https://img.shields.io/github/forks/Sahampath/Sahampath?label=🍴%20FORKS&style=flat-square&logo=github&color=6f42c1" alt="Repo Forks" />
-  </a>
-  
-  <!-- Stars of your profile repo -->
-  <a href="https://github.com/Sahampath/Sahampath">
-    <img src="https://img.shields.io/github/stars/Sahampath/Sahampath?label=⭐%20STARS&style=flat-square&logo=github&color=ffb700" alt="Repo Stars" />
-  </a>
+<img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/Sahampath?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Follow"/>
+<img src="https://img.shields.io/github/stars/Sahampath/Sahampath?style=for-the-badge&logo=appveyor">
+<img src="https://img.shields.io/github/forks/Sahampath/Sahampath?style=for-the-badge&logo=appveyor">
 </p>
 
 ---
@@ -90,13 +69,6 @@
 ---
 
 ## 📊 GitHub Analytics
-
-<p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sahampath&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide=contribs" alt="GitHub Stats" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sahampath&layout=compact&theme=tokyonight&langs_count=8" alt="Top Languages" />
-  </a>
-</p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sahampath&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
